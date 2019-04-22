@@ -16,7 +16,7 @@ phases:
       - echo Build completed on `date`
 artifacts:
   files:
-    - 'target/demo.war'
+    - 'target/githubdemo.war'
     - 'appspec.yml'
     - 'scripts/before_install.sh'
     - 'scripts/after_install.sh'    
