@@ -8,7 +8,7 @@ public class HelloWordController {
 	
     @GetMapping("/hello")
     public String sayHello() {
-        return "Hello from  Github11 for webhook";
+        return "Hello from  Github11 for webhook via pipeline";
     }
 
 }
